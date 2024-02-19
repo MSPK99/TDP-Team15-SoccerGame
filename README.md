@@ -125,9 +125,13 @@ The simulation keeps pace with a loop that's always ticking, updating everything
  
 The simulation uniquely accounts for varying weather conditions—sunny, rainy, and snowy—each meticulously modeled to influence the game's physics. These conditions affect ball friction and player performance, introducing a strategic layer of complexity to the gameplay.
 
-![Screenshot 2024-02-18 231007](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/e3c4e845-d6ad-4454-b42a-0c9471f83120)![Screenshot 2024-02-18 231026](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/aa74dc93-85cb-4c20-91d5-d6354ec1ad31)![Screenshot 2024-02-18 231042](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/90ef5b07-e2f9-4f68-9180-2f22f2123e21)
+![Screenshot 2024-02-18 231007](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/e3c4e845-d6ad-4454-b42a-0c9471f83120)
 
-*Figure:  Weather Impact on Gameplay*
+![Screenshot 2024-02-18 231026](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/aa74dc93-85cb-4c20-91d5-d6354ec1ad31)
+
+![Screenshot 2024-02-18 231042](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/90ef5b07-e2f9-4f68-9180-2f22f2123e21)
+
+*Figure:  Weather Impact( Sunny, Rain, Snow) on Gameplay*
 
 
 
@@ -137,7 +141,9 @@ To ensure the integrity of gameplay, our soccer simulation strictly adheres to t
 
 Following a foul, the game is momentarily paused to allow recognition of the penalty. A persistent marker representing the yellow card is displayed at the game's interface bottom, indicating the penalized player and their team for the game's duration. Should there be repeat offenses, our simulation implements player substitutions, with notifications clearly displayed on-screen and the substitute player entering the game in place of their cautioned teammate.
 
-![Screenshot 2024-02-18 231611](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/fd84dd16-70e2-4207-8244-b74880257c5d)![Screenshot 2024-02-18 231645](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/5b821cbb-4ec8-48f0-8fe3-2bfa8e072d81)
+![Screenshot 2024-02-18 231611](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/fd84dd16-70e2-4207-8244-b74880257c5d)
+
+![Screenshot 2024-02-18 231645](https://github.com/MSPK99/TDP-Team15-SoccerGame/assets/157824384/5b821cbb-4ec8-48f0-8fe3-2bfa8e072d81)
 
 
 *Figure: Illustration of a Yellow Card Issuance and Subsequent Player Substitution*
